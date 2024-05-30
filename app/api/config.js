@@ -1,4 +1,4 @@
-export const BASE_URL = 'https://schwpps-backend.nomorepartiesco.ru/api/';
+export const BASE_URL = 'https://schwpps-backend.nomorepartiesco.ru/api';
 
 export const endpoints = {
     games: `${BASE_URL}/games`,
